@@ -4,7 +4,6 @@ import statistics
 from statistics import mean
 from sklearn.metrics import *
 import numpy as np
-import csv
 
 ## k1x1 + k2x2 = c
 
